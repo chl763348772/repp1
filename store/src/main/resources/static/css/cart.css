@@ -1,0 +1,30 @@
+
+/*琛ㄦ牸鏂囧瓧灞呬腑*/
+
+.cart-table {
+	text-align: center;
+}
+/*琛ㄥご鏂囧瓧灞呬腑*/
+.cart-table th {
+	text-align: center;
+}
+/*鏁伴噺鏁板瓧灞呬腑*/
+.cart-table input {
+	text-align: center;
+}
+/*鍔犲噺鎸夐挳瀹藉害*/
+.num-btn {
+	width: 30px;
+}
+/*姣忚闂撮殭*/
+.cart-table tbody tr {
+	border-top: 1px dashed #cccccc;
+}
+
+/*鎬讳环鏉�*/
+.total-bar {
+	margin: 20px 0;
+	background-color: #f0f7fe;
+	padding: 15px;
+	border-radius: 5px;
+}
